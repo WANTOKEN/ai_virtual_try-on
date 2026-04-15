@@ -152,4 +152,6 @@ docker-compose up -d
 ## License
 
 MIT
+<img width="1135" height="689" alt="image" src="https://github.com/user-attachments/assets/0c8e1468-2891-4770-9611-16e17bca7f96" />
+
 ![alt text](image.png)
